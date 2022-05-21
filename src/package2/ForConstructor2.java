@@ -15,5 +15,6 @@ public class ForConstructor2 {
 		this(300);
 	System.out.println("parent int str "+u +" "+k );
 	System.out.println("Added for git learning purpose");
+	System.out.println("line added by Mohan branch");
 }
 }
