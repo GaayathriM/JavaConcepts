@@ -14,5 +14,6 @@ public class ForConstructor2 {
 	public ForConstructor2(int u, String k) {
 		this(300);
 	System.out.println("parent int str "+u +" "+k );
+	System.out.println("Added for git learning purpose");
 }
 }
